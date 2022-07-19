@@ -1,0 +1,63 @@
+.locationButton {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    height: 52px;
+    width: 24rem;
+    border-radius: 0.8rem;
+    padding: 0px 1rem;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: white;
+    input {
+      appearance: none;
+      border: none;
+      font-size: 1.4rem;
+      margin: 0px 1rem 0px 0.5rem;
+      &:focus {
+        outline: none;
+      }
+      &:hover -webkit-calendar-picker-indicator {
+        display: none;
+      }
+      //   &:hover:-ms-expand {
+      //     display: none;
+      //   }
+    }
+  }
+  .searchBar {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 5.4rem;
+    background: rgb(255, 255, 255);
+    border-radius: 0.8rem;
+    box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    border: 1px solid rgb(232, 232, 232);
+  }
+
+  .searchRes {
+    border-radius: 0.8rem;
+    width: 53rem;
+    height: 100%;
+    display: flex;
+    position: relative;
+    .searchLogo {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      width: 6rem;
+      margin: -1px -0.6rem -1px -1px;
+    }
+    .searchInput {
+      border: none;
+      font-size: 1.4rem;
+      width: 100%;
+      border-radius: 0.8rem;
+      &:focus {
+        outline: none;
+      }
+    }
+  }

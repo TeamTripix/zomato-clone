@@ -1,0 +1,87 @@
+.productList {
+  .product {
+    min-height: 12rem;
+    // background-color: palegreen;
+    min-width: 100%;
+    display: grid;
+    grid-template-columns: 50rem auto auto auto;
+    border-bottom: 1px solid dimgray;
+    .productDesc {
+      display: flex;
+      align-items: center;
+      img {
+        height: 6rem;
+        width: 7rem;
+      }
+      .productName {
+        margin-left: 3rem;
+        h1 {
+          font-size: 1.5rem;
+        }
+        p {
+          font-size: 1.2rem;
+          color: dimgray;
+        }
+      }
+    }
+    .quantity {
+      display: flex;
+      align-items: center;
+      .minus {
+        height: 3rem;
+        width: 3rem;
+        border: 0.5px solid #ef4f5f;
+        background: #fff6f7;
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        color: #ef4f5f;
+        &:hover {
+          background-color: #ffc3c9;
+        }
+      }
+      .productQuantity {
+        height: 3rem;
+        width: 3rem;
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        // border: 0.5px solid #ef4f5f;
+        // background: #fff6f7;
+        color: dimgray;
+      }
+      .plus {
+        color: #ef4f5f;
+        cursor: pointer;
+        height: 3rem;
+        width: 3rem;
+        border: 0.5px solid #ef4f5f;
+        background: #fff6f7;
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        &:hover {
+          background-color: #ffc3c9;
+        }
+      }
+    }
+    .totalPrice {
+      font-size: 1.5rem;
+      color: dimgray;
+      display: flex;
+      align-items: center;
+    }
+    .removeProduct {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      i {
+        cursor: pointer;
+      }
+    }
+  }
+}

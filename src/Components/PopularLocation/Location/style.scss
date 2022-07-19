@@ -1,0 +1,20 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  width: 350px;
+  box-shadow: rgb(28 28 28 / 8%) 0px 1.42623px 2.85246px;
+  border: 1px solid rgb(232, 232, 232);
+  border-radius: 10px;
+  cursor: pointer;
+  &:hover {
+    box-shadow: rgb(28 28 28 / 8%) 0px 4px 8px;
+  }
+  h5 {
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 400;
+    color: rgb(28, 28, 28);
+  }
+}

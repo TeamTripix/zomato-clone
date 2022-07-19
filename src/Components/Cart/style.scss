@@ -1,0 +1,102 @@
+.orderBtn {
+  width: 8.2rem;
+  height: 3.2rem;
+  border: 0.5px solid rgb(239, 79, 95);
+  border-radius: 0.8rem;
+  background: rgb(255, 246, 247);
+  color: rgb(239, 79, 95);
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
+.orderTitle {
+  padding-top: 2rem;
+  width: calc(100% + 0.5rem);
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0px;
+  h2 {
+    font-size: 1.9rem;
+    line-height: 3rem;
+    color: rgb(28, 28, 28);
+    font-weight: 400;
+    margin: 0px;
+  }
+}
+.divisionOrderForm {
+  border: 1px solid rgb(232, 232, 232);
+  margin: 2rem 0px;
+}
+
+.orderMsg {
+  h1 {
+    color: rgb(28, 28, 28);
+    font-size: 1.9rem;
+  }
+  p {
+    font-size: 14px;
+    color: rgb(207, 207, 207);
+    margin-top: 0.4rem;
+  }
+}
+
+.radioInputBox {
+  // max-width: 40%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.6rem;
+  h1 {
+    line-height: 1.5;
+    // margin: 0px;
+    color: rgb(54, 54, 54);
+    font-size: 1.6rem;
+  }
+  .radioInput {
+    display: flex;
+    align-items: center;
+    p {
+      line-height: 1.5;
+      margin-right: 5px;
+      color: rgb(54, 54, 54);
+      font-size: 1.6rem;
+    }
+  }
+}
+
+.subTotal {
+  height: 6.5rem;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 55rem;
+  background: rgb(255, 255, 255);
+  left: 0px;
+  padding: 1rem;
+  box-shadow: rgb(0 0 0 / 10%) 0px -1px 20px;
+  z-index: 1000;
+  border-radius: 0px 0px 0.6rem 0.6rem;
+  .addToggleButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: space-around;
+    width: 8.2rem;
+    height: 4.8rem;
+    border: 0.5px solid rgb(239, 79, 95);
+    border-radius: 0.8rem;
+    overflow: hidden;
+    cursor: initial;
+    user-select: none;
+    background: rgb(255, 246, 247);
+    h1 {
+        cursor: pointer;
+      font-size: 2rem;
+      color: #ef4f5f;
+      margin: 0rem 1rem;
+    }
+  }
+}

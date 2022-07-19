@@ -1,0 +1,693 @@
+{
+  "brandName": [
+    {
+      "name": "Mcdonald's",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/bb30587d1148b6ab628a61945f64bf88_1625164768.png",
+      "time": "30min",
+      "bgColor": "rgb(255, 188, 13)"
+    },
+    {
+      "name": "Burger King",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187857.png",
+      "time": "27 min"
+    },
+    {
+      "name": "Subway",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/396a89cdb1f7a999717b01aa98da7017_1631990846.png",
+      "time": "23 min"
+    },
+    {
+      "name": "Bikaneravla",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/1356425eff0c9acd8ab6b0ad351759e4_1611253489.png",
+      "time": "29 min"
+    },
+    {
+      "name": "Haldiram's",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/22529ff52d41a4aa3b36ac1e7e0c0db3_1605099406.png",
+      "time": "25 min"
+    },
+    {
+      "name": "Theobroma",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/84edd5489389f21069c09f0c88ea8abb_1628179220.png",
+      "time": "23 min",
+      "bgColor": "rgb(249, 191, 190)"
+    }
+  ],
+  "popular_city": [
+    {
+      "url": "https://www.zomato.com/ncr/connaught-place_no-delhi-restaurants",
+      "name": "Connaught Place (388 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/sector-29-gurgaon-gurugram-restaurants",
+      "name": "Sector 29 (290 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/sector-18-noida-restaurants",
+      "name": "Sector 18, Noida (284 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/rajouri-garden-delhi-restaurants",
+      "name": "Rajouri Garden (689 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/saket-delhi-restaurants",
+      "name": "Saket (665 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dlf-cyber-city-restaurants",
+      "name": "DLF Cyber City (207 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/golf-course-road-restaurants",
+      "name": "Golf Course Road (259 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dlf-phase-4-restaurants",
+      "name": "DLF Phase 4 (774 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/delhi-university-gtb-nagar-delhi-restaurants",
+      "name": "Delhi University-GTB Nagar (258 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/indirapuram-restaurants",
+      "name": "Indirapuram (1988 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/vasant-kunj-delhi-restaurants",
+      "name": "Vasant Kunj (879 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/greater-kailash-gk-1-delhi-restaurants",
+      "name": "Greater Kailash 1 (GK1) (341 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/chanakyapuri-delhi-restaurants",
+      "name": "Chanakyapuri (128 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/rohini-delhi-restaurants",
+      "name": "Rohini (2758 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/janpath-delhi-restaurants",
+      "name": "Janpath (54 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/hauz-khas-village-delhi-restaurants",
+      "name": "Hauz Khas Village (53 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/sector-38-noida-restaurants",
+      "name": "Sector 38, Noida (86 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/janakpuri-delhi-restaurants",
+      "name": "Janakpuri (935 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/sector-50-gurgaon-gurugram-restaurants",
+      "name": "Sector 50 (462 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/mg-road-gurgaon-gurugram-restaurants",
+      "name": "MG Road (327 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dlf-phase-3-restaurants",
+      "name": "DLF Phase 3 (833 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/punjabi-bagh-delhi-restaurants",
+      "name": "Punjabi Bagh (330 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/netaji-subhash-place_no-delhi-restaurants",
+      "name": "Netaji Subhash Place (178 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/malviya-nagar-delhi-restaurants",
+      "name": "Malviya Nagar (887 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/khan-market-delhi-restaurants",
+      "name": "Khan Market (55 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/karol-bagh-delhi-restaurants",
+      "name": "Karol Bagh (598 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/nehru-place_no-delhi-restaurants",
+      "name": "Nehru Place (113 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/sohna-road-restaurants",
+      "name": "Sohna Road (544 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/greater-kailash-gk-2-delhi-restaurants",
+      "name": "Greater Kailash 2 (GK2) (161 places)"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/pitampura-delhi-restaurants",
+      "name": "Pitampura (737 places)"
+    }
+  ],
+  "popular_restaurant": [
+    {
+      "name": "Bakeries near me",
+      "url": "https://www.zomato.com/bakeries-near-me"
+    },
+    {
+      "name": "Bars near me",
+      "url": "https://www.zomato.com/bars-near-me"
+    },
+    {
+      "name": "Beverage Shops near me",
+      "url": "https://www.zomato.com/beverage-shops-near-me"
+    },
+    {
+      "name": "Bhojanalya near me",
+      "url": "https://www.zomato.com/bhojanalya-near-me"
+    },
+    {
+      "name": "Cafés near me",
+      "url": "https://www.zomato.com/cafes-near-me"
+    },
+    {
+      "name": "Casual Dining near me",
+      "url": "https://www.zomato.com/casual-dining-near-me"
+    },
+    {
+      "name": "Clubs near me",
+      "url": "https://www.zomato.com/clubs-near-me"
+    },
+    {
+      "name": "Cocktail Bars near me",
+      "url": "https://www.zomato.com/cocktail-bars-near-me"
+    },
+    {
+      "name": "Confectioneries near me",
+      "url": "https://www.zomato.com/confectioneries-near-me"
+    },
+    {
+      "name": "Dessert Parlors near me",
+      "url": "https://www.zomato.com/dessert-parlor-near-me"
+    },
+    {
+      "name": "Dhabas near me",
+      "url": "https://www.zomato.com/dhabas-near-me"
+    },
+    {
+      "name": "Fine Dining near me",
+      "url": "https://www.zomato.com/fine-dining-near-me"
+    },
+    {
+      "name": "Food Courts near me",
+      "url": "https://www.zomato.com/food-courts-near-me"
+    },
+    {
+      "name": "Food Trucks near me",
+      "url": "https://www.zomato.com/food-trucks-near-me"
+    },
+    {
+      "name": "Irani Cafes near me",
+      "url": "https://www.zomato.com/irani-cafes-near-me"
+    },
+    {
+      "name": "Kiosks near me",
+      "url": "https://www.zomato.com/kiosks-near-me"
+    },
+    {
+      "name": "Lounges near me",
+      "url": "https://www.zomato.com/lounges-near-me"
+    },
+    {
+      "name": "Meat Shops near me",
+      "url": "https://www.zomato.com/meat-shops-near-me"
+    },
+    {
+      "name": "near me",
+      "url": "https://www.zomato.com/"
+    },
+    {
+      "name": "Microbreweries near me",
+      "url": "https://www.zomato.com/microbreweries-near-me"
+    },
+    {
+      "name": "Paan Shop near me",
+      "url": "https://www.zomato.com/paan-shop-near-me"
+    },
+    {
+      "name": "Pop Ups near me",
+      "url": "https://www.zomato.com/pop-ups-near-me"
+    },
+    {
+      "name": "Pubs near me",
+      "url": "https://www.zomato.com/pubs-near-me"
+    },
+    {
+      "name": "Quick Bites near me",
+      "url": "https://www.zomato.com/quick-bites-near-me"
+    },
+    {
+      "name": "Sweet Shops near me",
+      "url": "https:/www.zomato.com/sweet-shops-near-me"
+    }
+  ],
+  "top_restaurant_chains": [
+    {
+      "name": "Bikanervala",
+      "url": "https://www.zomato.com/ncr/restaurants/bikanervala"
+    },
+    {
+      "name": "Biryani Blues",
+      "url": "https://www.zomato.com/ncr/restaurants/biryani-blues"
+    },
+    {
+      "name": "BTW",
+      "url": "https://www.zomato.com/ncr/restaurants/btw"
+    },
+    {
+      "name": "Burger King",
+      "url": "https://www.zomato.com/ncr/restaurants/burger-king"
+    },
+    {
+      "name": "Burger Singh",
+      "url": "https://www.zomato.com/ncr/restaurants/burger-singh-big-punjabi-burgers"
+    },
+    {
+      "name": "Domino's",
+      "url": "https://www.zomato.com/ncr/restaurants/dominos"
+    },
+    {
+      "name": "Dunkin' Donuts",
+      "url": "https://www.zomato.com/ncr/restaurants/dunkin-donuts"
+    },
+    {
+      "name": "Haldiram's",
+      "url": "https://www.zomato.com/ncr/restaurants/haldirams"
+    },
+    {
+      "name": "KFC",
+      "url": "https://www.zomato.com/ncr/restaurants/kfc"
+    },
+    {
+      "name": "Krispy Kreme",
+      "url": "https://www.zomato.com/ncr/restaurants/krispy-kreme"
+    },
+    {
+      "name": "McDonald's",
+      "url": "https://www.zomato.com/ncr/restaurants/mcdonalds"
+    },
+    {
+      "name": "Moti Mahal Delux",
+      "url": "https://www.zomato.com/ncr/restaurants/moti-mahal-delux-1"
+    },
+    {
+      "name": "Om Sweets & Snacks",
+      "url": "https://www.zomato.com/ncr/restaurants/om-sweets-snacks"
+    },
+    {
+      "name": "Paradise Biryani",
+      "url": "https://www.zomato.com/ncr/restaurants/paradise-biryani"
+    },
+    {
+      "name": "Pizza Hut",
+      "url": "https://www.zomato.com/ncr/restaurants/pizza-hut"
+    },
+    {
+      "name": "Sagar Ratna",
+      "url": "https://www.zomato.com/ncr/restaurants/sagar-ratna"
+    },
+    {
+      "name": "Subway",
+      "url": "https://www.zomato.com/ncr/restaurants/subway-1"
+    },
+    {
+      "name": "WOW! Momo",
+      "url": "https://www.zomato.com/ncr/restaurants/wow-momo"
+    }
+  ],
+  "cities_to_dilever": [
+    {
+      "name": "Delhi NCR",
+      "url": "https://www.zomato.com/ncr/"
+    },
+    {
+      "name": "Kolkata",
+      "url": "https://www.zomato.com/kolkata/"
+    },
+    {
+      "name": "Mumbai",
+      "url": "https://www.zomato.com/mumbai/"
+    },
+    {
+      "name": "Bengaluru",
+      "url": "https://www.zomato.com/bangalore/"
+    },
+    {
+      "name": "Pune",
+      "url": "https://www.zomato.com/pune/"
+    },
+    {
+      "name": "Hyderabad",
+      "url": "https://www.zomato.com/hyderabad/"
+    },
+    {
+      "name": "Chennai",
+      "url": "https://www.zomato.com/chennai/"
+    },
+    {
+      "name": "Lucknow",
+      "url": "https://www.zomato.com/lucknow/"
+    },
+    {
+      "name": "Kochi",
+      "url": "https://www.zomato.com/kochi/"
+    },
+    {
+      "name": "Jaipur",
+      "url": "https://www.zomato.com/jaipur/"
+    },
+    {
+      "name": "Ahmedabad",
+      "url": "https://www.zomato.com/ahmedabad/"
+    },
+    {
+      "name": "Chandigarh",
+      "url": "https://www.zomato.com/chandigarh/"
+    },
+    {
+      "name": "Goa",
+      "url": "https://www.zomato.com/goa/"
+    },
+    {
+      "name": "Indore",
+      "url": "https://www.zomato.com/indore/"
+    },
+    {
+      "name": "Nashik",
+      "url": "https://www.zomato.com/nashik/"
+    },
+    {
+      "name": "Ooty",
+      "url": "https://www.zomato.com/ooty/"
+    },
+    {
+      "name": "Shimla",
+      "url": "https://www.zomato.com/shimla/"
+    },
+    {
+      "name": "Ludhiana",
+      "url": "https://www.zomato.com/ludhiana/"
+    },
+    {
+      "name": "Guwahati",
+      "url": "https://www.zomato.com/guwahati/"
+    },
+    {
+      "name": "Amritsar",
+      "url": "https://www.zomato.com/amritsar/"
+    },
+    {
+      "name": "Kanpur",
+      "url": "https://www.zomato.com/kanpur/"
+    },
+    {
+      "name": "Allahabad",
+      "url": "https://www.zomato.com/allahabad/"
+    },
+    {
+      "name": "Aurangabad",
+      "url": "https://www.zomato.com/aurangabad/"
+    },
+    {
+      "name": "Bhopal",
+      "url": "https://www.zomato.com/bhopal/"
+    },
+    {
+      "name": "Ranchi",
+      "url": "https://www.zomato.com/ranchi/"
+    },
+    {
+      "name": "Visakhapatnam",
+      "url": "https://www.zomato.com/visakhapatnam/"
+    },
+    {
+      "name": "Bhubaneswar",
+      "url": "https://www.zomato.com/bhubaneswar/"
+    },
+    {
+      "name": "Coimbatore",
+      "url": "https://www.zomato.com/coimbatore/"
+    },
+    {
+      "name": "Mangalore",
+      "url": "https://www.zomato.com/mangalore/"
+    },
+    {
+      "name": "Vadodara",
+      "url": "https://www.zomato.com/vadodara/"
+    },
+    {
+      "name": "Nagpur",
+      "url": "https://www.zomato.com/nagpur/"
+    },
+    {
+      "name": "Agra",
+      "url": "https://www.zomato.com/agra/"
+    },
+    {
+      "name": "Dehradun",
+      "url": "https://www.zomato.com/dehradun/"
+    },
+    {
+      "name": "Mysore",
+      "url": "https://www.zomato.com/mysore/"
+    },
+    {
+      "name": "Puducherry",
+      "url": "https://www.zomato.com/puducherry/"
+    },
+    {
+      "name": "Surat",
+      "url": "https://www.zomato.com/surat/"
+    },
+    {
+      "name": "Varanasi",
+      "url": "https://www.zomato.com/varanasi/"
+    },
+    {
+      "name": "Patna",
+      "url": "https://www.zomato.com/patna/"
+    },
+    {
+      "name": "Udaipur",
+      "url": "https://www.zomato.com/udaipur/"
+    },
+    {
+      "name": "Cuttack",
+      "url": "https://www.zomato.com/cuttack/"
+    },
+    {
+      "name": "Trivandrum",
+      "url": "https://www.zomato.com/trivandrum/"
+    },
+    {
+      "name": "Haridwar",
+      "url": "https://www.zomato.com/haridwar/"
+    },
+    {
+      "name": "Leh",
+      "url": "https://www.zomato.com/leh/"
+    },
+    {
+      "name": "Pushkar",
+      "url": "https://www.zomato.com/pushkar/"
+    },
+    {
+      "name": "Rajkot",
+      "url": "https://www.zomato.com/rajkot/"
+    },
+    {
+      "name": "Madurai",
+      "url": "https://www.zomato.com/madurai/"
+    },
+    {
+      "name": "Kozhikode",
+      "url": "https://www.zomato.com/kozhikode/"
+    },
+    {
+      "name": "Alappuzha",
+      "url": "https://www.zomato.com/alappuzha/"
+    },
+    {
+      "name": "Thrissur",
+      "url": "https://www.zomato.com/thrissur/"
+    },
+    {
+      "name": "Manipal",
+      "url": "https://www.zomato.com/manipal/"
+    },
+    {
+      "name": "Vijayawada",
+      "url": "https://www.zomato.com/vijayawada/"
+    },
+    {
+      "name": "Jodhpur",
+      "url": "https://www.zomato.com/jodhpur/"
+    },
+    {
+      "name": "Kota",
+      "url": "https://www.zomato.com/kota/"
+    },
+    {
+      "name": "Ajmer",
+      "url": "https://www.zomato.com/ajmer/"
+    },
+    {
+      "name": "Mussoorie",
+      "url": "https://www.zomato.com/mussoorie/"
+    },
+    {
+      "name": "Rishikesh",
+      "url": "https://www.zomato.com/rishikesh/"
+    },
+    {
+      "name": "Jalandhar",
+      "url": "https://www.zomato.com/jalandhar/"
+    },
+    {
+      "name": "Jammu",
+      "url": "https://www.zomato.com/jammu/"
+    },
+    {
+      "name": "Manali",
+      "url": "https://www.zomato.com/manali/"
+    },
+    {
+      "name": "Dharamshala",
+      "url": "https://www.zomato.com/dharamshala/"
+    },
+    {
+      "name": "Raipur",
+      "url": "https://www.zomato.com/raipur/"
+    },
+    {
+      "name": "Gorakhpur",
+      "url": "https://www.zomato.com/gorakhpur/"
+    },
+    {
+      "name": "Palakkad",
+      "url": "https://www.zomato.com/palakkad/"
+    }
+  ],
+  "colletion_card_data": [
+    {
+      "name": "Internation Women's Day",
+      "image_url": "https://b.zmtcdn.com/data/collections/67be87891499617067b3881913ec7c0b_1614768460.jpg?output-format=webp",
+      "place_no": "24"
+    },
+    {
+      "name": "Newly Open",
+      "image_url": "https://b.zmtcdn.com/data/collections/b22194cb38ed18a5200b387ad8f243f0_1582015804.jpg?output-format=webp",
+      "place_no": "12"
+    },
+    {
+      "name": "Trending This Week",
+      "image_url": "https://b.zmtcdn.com/data/collections/f60eb469dbcdadaaa48c8be4f5ba48b3_1646040101.png?output-format=webp",
+      "place_no": "30"
+    },
+    {
+      "name": "Best of Delhi NCR",
+      "image_url": "https://b.zmtcdn.com/data/collections/c392056cfd7c02befe8d53f94ad2a908_1581933619.jpg?output-format=webp",
+      "place_no": "155"
+    }
+  ],
+  "food_card": [
+    {
+      "id": "001",
+      "restaurant_name": "Burger King",
+      "image_url": "https://b.zmtcdn.com/data/pictures/chains/8/310078/9f2f843523d0e8b9ecd9ee9ee32c1c46_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Fast Food, Desserts, Burger, Beverages, Finger Food",
+      "rating": "4.2",
+      "price": "300",
+      "recent_order": "9500"
+    },
+    {
+      "id": "002",
+      "restaurant_name": "Burgerama",
+      "image_url": "https://b.zmtcdn.com/data/pictures/chains/0/18747550/ae78d519bf2c2c364914397e5d7374e9_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Burger, Fast Food, Beverages",
+      "rating": "4.4",
+      "price": "300",
+      "recent_order": "5375"
+    },
+    {
+      "id": "003",
+      "restaurant_name": "Anardana Kitchen",
+      "image_url": "https://b.zmtcdn.com/data/pictures/chains/7/19886927/bf36aeadf15493882b4eb6c1a0bf6fed_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "North Indian, Mughlai, Chinese, Desserts",
+      "rating": "4.3",
+      "price": "300",
+      "recent_order": "1025"
+    },
+    {
+      "id": "004",
+      "restaurant_name": "D'Oliva",
+      "image_url": "https://b.zmtcdn.com/data/pictures/7/19819597/830b956c11b7b138b5ce6029ac856ef3_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Pizza, Burger, Italian, Continental, Salad",
+      "rating": "4.2",
+      "price": "300",
+      "recent_order": "2425"
+    },
+    {
+      "id": "005",
+      "restaurant_name": "Freaking Good Pizza",
+      "image_url": "https://b.zmtcdn.com/data/pictures/8/20059848/2549a8f79c352864596309f2e69e8ce5_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Pizza",
+      "rating": "4.0",
+      "price": "300",
+      "recent_order": "6537"
+    },
+    {
+      "id": "006",
+      "restaurant_name": "La Pino'z Pizza",
+      "image_url": "https://b.zmtcdn.com/data/pictures/chains/7/18619067/5052a28d4cc694258ae6611da4fbbb70_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Pizza, Italian, Fast Food, Pasta",
+      "rating": "4.0",
+      "price": "300",
+      "recent_order": "2365"
+    },
+    {
+      "id": "007",
+      "restaurant_name": "Nizam's Kathi Kabab",
+      "image_url": "https://b.zmtcdn.com/data/pictures/6/313206/b15339c2b2d42f2083eb1ef27e93a3d0_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "North Indian, Mughlai, Rolls, Kebab, Beverages",
+      "rating": "4.1",
+      "price": "300",
+      "recent_order": "7645"
+    },
+    {
+      "id": "008",
+      "restaurant_name": "Karim's",
+      "image_url": "https://b.zmtcdn.com/data/pictures/chains/1/461/72251ef2ed03f2179854a92d573f199a_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Mughlai, North Indian, Kebab, Rolls, Desserts",
+      "rating": "4.5",
+      "price": "350",
+      "recent_order": "1300"
+    },
+    {
+      "id": "009",
+      "restaurant_name": "Cakes & Bakes",
+      "image_url": "https://b.zmtcdn.com/data/pictures/4/18951184/5524e6fb342976f9d7518081f88d5ae6_o2_featured_v2.jpg?output-format=webp",
+      "food_type": "Bakery, Fast Food",
+      "rating": "3.9",
+      "price": "300",
+      "recent_order": "2342"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.gridBox {
+  width: 100%;
+  position: relative;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-items: center;
+}
+.gridBoxItem {
+  min-height: 10rem;
+  
+}
+.title {
+  margin-bottom: 4rem;
+  text-align: center;
+  p {
+    margin: 0px;
+    color: rgb(54, 54, 54);
+    font-size: 3.6rem;
+    line-height: 1.2;
+    font-weight: 400;
+  }
+}

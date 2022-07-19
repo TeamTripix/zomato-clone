@@ -1,0 +1,31 @@
+.brandBox {
+  border: 0.5px solid rgb(232, 232, 232);
+  box-sizing: border-box;
+  box-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 15rem;
+  height: 15rem;
+//   background-color: rgb(255, 188, 13);
+  padding: 1.6rem;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+.brandName {
+  line-height: 1.2;
+  color: rgb(28, 28, 28);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin: 1rem 0px 0px;
+}
+.brandFar {
+  line-height: 1.2;
+  font-weight: 400;
+  color: rgb(28, 28, 28);
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 1rem 0px;
+}

@@ -1,0 +1,15 @@
+.boxHeading {
+  position: relative;
+  max-width: 110rem;
+  max-height: initial;
+  margin: 0px auto;
+  padding-top: 10rem;
+  // padding-bottom: 10rem;
+  h1 {
+    margin: 0px 0px 3rem;
+    color: rgb(54, 54, 54);
+    font-size: 3rem;
+    line-height: 4rem;
+    font-weight: 500;
+  }
+}

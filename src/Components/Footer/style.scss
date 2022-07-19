@@ -1,0 +1,54 @@
+.logoBox {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+  img {
+    height: 2.8rem;
+    width: 13.2rem;
+  }
+}
+
+.navGridBox {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+//   justify-items: center;
+  .navGridItem {
+    h6 {
+      font-size: 1.4rem;
+      letter-spacing: 0.2rem;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin: 0px 0px 1.2rem;
+    }
+    a {
+      text-decoration: none;
+      p {
+        font-size: 1.4rem;
+        line-height: 2.1rem;
+        color: rgb(105, 105, 105);
+        margin: 0.5rem 0px;
+      }
+    }
+  }
+}
+
+.line {
+  margin-top: 5rem;
+  border-width: 1px 0px 0px;
+  border-right-style: initial;
+  border-bottom-style: initial;
+  border-left-style: initial;
+  border-right-color: initial;
+  border-bottom-color: initial;
+  border-left-color: initial;
+  border-image: initial;
+  border-top-style: solid;
+  border-top-color: rgb(207, 207, 207);
+}
+
+.copyright {
+  font-size: 1.3rem;
+  color: rgb(79, 79, 79);
+  line-height: 1.7rem;
+  margin-top: 2.3rem;
+}

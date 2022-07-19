@@ -1,0 +1,95 @@
+.header {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  .headerLogo {
+    align-items: center;
+    display: flex;
+    img {
+      margin-right: 2.5rem;
+      max-width: 14rem;
+      height: 2.7rem;
+      display: block;
+      cursor: pointer;
+    }
+  }
+  .headerLinks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    // ul {
+    // font-style: none;
+    li {
+      list-style: none;
+      text-decoration: none;
+      font-size: 1.8rem;
+      line-height: 1.5;
+      text-align: right;
+      vertical-align: middle;
+      font-weight: 300;
+      color: rgb(105, 105, 105);
+      cursor: pointer;
+      border-radius: 0.6rem;
+      padding: 0.8rem !important;
+    }
+    // }
+  }
+}
+
+.breadcum {
+  display: flex;
+  font-size: 2rem;
+  margin: 2rem 0 2rem 0;
+  a {
+    padding: 0 5px 0 5px;
+    text-decoration: none;
+    color: rgb(130, 130, 130);
+    font-weight: 300;
+    &:hover {
+      color: rgb(239, 79, 95);
+    }
+  }
+  p {
+    color: rgb(130, 130, 130);
+    font-weight: 300;
+  }
+}
+
+.filterBox {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 1.6rem;
+  padding-bottom: 1.6rem;
+  position: sticky;
+  // background-color: rgb(226, 33, 33);
+  z-index: 2;
+  transition: top 0.5s ease-in-out 0s;
+}
+
+.brandHeading {
+  color: rgb(28, 28, 28);
+  font-size: 3rem;
+  line-height: 1.2;
+  font-weight: 500;
+  margin: 3rem 0px 3.2rem;
+}
+.brandGridBox {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  justify-items: center;
+}
+
+.foodCardHeading {
+  color: rgb(28, 28, 28);
+  font-size: 3rem;
+  margin: 3rem 0px 3.2rem;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.resBoxGrid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-items: center;
+}

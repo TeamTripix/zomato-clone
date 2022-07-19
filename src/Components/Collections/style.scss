@@ -1,0 +1,43 @@
+.gridContainer {
+  width: 100%;
+  position: relative;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-items: center;
+  align-items: center;
+  height: 35rem;
+}
+.collections {
+  // margin-top: 6rem;
+  margin-bottom: 10rem;
+  // font-size: 3.6rem;
+  h1 {
+    font-weight: 500;
+    font-size: 3.6rem;
+    line-height: 1.2;
+    color: rgb(28, 28, 28);
+    margin: 0px;
+  }
+  .collectionsPara {
+    display: flex;
+    justify-content: space-between;
+    h6 {
+      line-height: 1.4;
+      font-weight: 200;
+      color: rgb(54, 54, 54);
+      font-size: 1.8rem;
+    }
+    span {
+        color: rgb(239, 79, 95);
+        text-decoration: none;
+        display: inline-flex;
+        padding: 0.3rem;
+        background-color: transparent;
+        cursor: pointer;
+        border: 0.1rem solid transparent;
+        border-radius: 0.4rem;
+        line-height: 1;
+        font-size: 1.6rem;
+    }
+  }
+}
